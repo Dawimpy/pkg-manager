@@ -5,6 +5,8 @@ print("""
 
 pkg manager
 
+Version: 0.1-beta
+
 Select options:
 
 1.Update package
