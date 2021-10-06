@@ -17,3 +17,12 @@ But you can add a distribution by [pull request](https://github.com/NoNameMan123
 3. Search packages
 
 P.S: You can suggest a new feature [here!](https://github.com/NoNameMan1231/pkg-manager/discussions/2)
+
+# Installation
+
+For Termux users:
+```
+git clone https://github.com/NoNameMan1231/pkg-manager/tree/main/Termux
+cd Termux
+python3 pkg.py
+```
