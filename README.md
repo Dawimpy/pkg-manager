@@ -22,7 +22,8 @@ P.S: You can suggest a new feature [here!](https://github.com/NoNameMan1231/pkg-
 
 For Termux users:
 ```
-git clone https://github.com/NoNameMan1231/pkg-manager/tree/main/Termux
+git clone https://github.com/NoNameMan1231/pkg-manager/
+cd pkg-manager
 cd Termux
 python3 pkg.py
 ```
