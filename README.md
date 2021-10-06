@@ -6,4 +6,4 @@ Note: This project is still in beta!
 # Supported distribution
 Android (Termux)
 
-But you can add a distribution by [pull request]
+But you can add a distribution by [pull request](https://github.com/NoNameMan1231/pkg-manager/pulls)
