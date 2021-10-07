@@ -30,7 +30,7 @@ python3 pkg.py
 ```
 ```
 wget https://raw.githubusercontent.com/NoNameMan1231/pkg-manager/main/Apt/pkg-apt.py
-python3 pkg-apt.py
+sudo python3 pkg-apt.py
 ```
 
 
