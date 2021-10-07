@@ -28,6 +28,7 @@ cd pkg-manager
 cd Termux
 python3 pkg.py
 ```
+For Ubuntu and Debian:
 ```
 wget https://raw.githubusercontent.com/NoNameMan1231/pkg-manager/main/Apt/pkg-apt.py
 sudo python3 pkg-apt.py
