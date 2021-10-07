@@ -16,7 +16,7 @@ But you can add a distribution by [pull request](https://github.com/NoNameMan123
 1. Update package
 2. Install and remove package
 3. Search packages
-
+4. Show package information
 P.S: You can suggest a new feature [here!](https://github.com/NoNameMan1231/pkg-manager/discussions/2)
 
 # Installation
