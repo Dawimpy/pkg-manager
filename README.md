@@ -24,9 +24,7 @@ P.S: You can suggest a new feature [here!](https://github.com/NoNameMan1231/pkg-
 
 For Termux users:
 ```
-git clone https://github.com/NoNameMan1231/pkg-manager/
-cd pkg-manager
-cd Termux
+wget https://raw.githubusercontent.com/NoNameMan1231/pkg-manager/main/Termux/pkg.py
 python3 pkg.py
 ```
 For Ubuntu and Debian:
