@@ -7,6 +7,7 @@ Note: This project is still in beta!
 
 # Supported distribution
 1.Android (Termux)
+
 2.Ubuntu and Debian
 
 But you can add a distribution by [pull request](https://github.com/NoNameMan1231/pkg-manager/pulls)
