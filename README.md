@@ -7,6 +7,7 @@ Note: This project is still in beta!
 
 # Supported distribution
 Android (Termux)
+Ubuntu and Debian
 
 But you can add a distribution by [pull request](https://github.com/NoNameMan1231/pkg-manager/pulls)
 
@@ -27,3 +28,9 @@ cd pkg-manager
 cd Termux
 python3 pkg.py
 ```
+```
+wget https://raw.githubusercontent.com/NoNameMan1231/pkg-manager/main/Apt/pkg-apt.py
+python3 pkg-apt.py
+```
+
+
