@@ -3,7 +3,7 @@ from os import system
 
 print("""
 
-pkg manager
+pkg manager (v0.2-beta)
 
 Select options:
 
