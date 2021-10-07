@@ -1,7 +1,7 @@
 # pkg-manager
 A simple package manager frontend written in python
 
-Version :0.1-beta
+Version :0.2-beta
 
 Note: This project is still in beta!
 
