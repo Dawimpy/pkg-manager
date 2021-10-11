@@ -5,10 +5,10 @@ Version :0.2-beta
 
 Note: This project is still in beta!
 
-# Supported distribution
-1.Android (Termux)
+# Supported package manager
+1.Android (Termux) - Apt
 
-2.Ubuntu and Debian
+2.Ubuntu and Debian - Apt
 
 But you can add a distribution by [pull request](https://github.com/NoNameMan1231/pkg-manager/pulls)
 
