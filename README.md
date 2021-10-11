@@ -10,6 +10,8 @@ Note: This project is still in beta!
 
 2.Ubuntu and Debian - Apt
 
+3.Alpine (apk)
+
 But you can add a distribution by [pull request](https://github.com/NoNameMan1231/pkg-manager/pulls)
 
 # Feature
@@ -22,16 +24,19 @@ But you can add a distribution by [pull request](https://github.com/NoNameMan123
 P.S: You can suggest a new feature [here!](https://github.com/NoNameMan1231/pkg-manager/discussions/2)
 
 # Installation
+Note: `python3` must installed
 
-For Termux users:
+Termux apt:
 ```
 wget https://raw.githubusercontent.com/NoNameMan1231/pkg-manager/main/Termux/pkg.py
 python3 pkg.py
 ```
-For Ubuntu and Debian:
+Apt:
 ```
 wget https://raw.githubusercontent.com/NoNameMan1231/pkg-manager/main/Apt/pkg-apt.py
 sudo python3 pkg-apt.py
 ```
-
-
+Apk:
+```
+wget https://raw.githubusercontent.com/NoNameMan1231/pkg-manager/main/Apk/pkg-apk.py
+sudo python3 pkg-apk.py
