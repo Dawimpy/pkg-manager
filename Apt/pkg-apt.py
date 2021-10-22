@@ -12,6 +12,7 @@ Select options:
 3.Remove packages
 4.Search Packages
 5.Show packages
+6.Clear cache
 """)
 
 num = int(input('Enter options:'))
@@ -29,3 +30,5 @@ if (num==4):
 if (num==5):
    pkg = input('What package do you want to know?:')
    system(f"apt show {pkg}")
+if (num==6)
+   system(f"apt clean")
