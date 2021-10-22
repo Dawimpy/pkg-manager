@@ -30,5 +30,5 @@ if (num==4):
 if (num==5):
    pkg = input('What package do you want to know?:')
    system(f"apt show {pkg}")
-if (num==6)
+if (num==6):
    system(f"apt clean")
