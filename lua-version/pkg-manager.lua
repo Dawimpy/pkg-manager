@@ -14,7 +14,7 @@ print("Enter option:")
 option = io.read("*n")
 
 if option == 1 then
-   io.execute("apt update && apt upgrade")
+   os.execute("apt update && apt upgrade")
 end
 
 if option == 2 then
