@@ -3,7 +3,7 @@ A simple package manager frontend written in python
 
 Version :0.2-beta
 
-Note: This project is still in beta!
+Note: This project is archived, please check out [this](https://github.com/NoNameMan1231/pkg-manager-Lua-and-Python3)
 
 # Supported package manager
 1.Android (Termux) - Apt
